@@ -1,0 +1,6 @@
+{
+  "name": "EduMaster Academy",
+  "description": "A high-fidelity corporate learning platform with interactive course discovery, student portal dashboard, and a premium immersive course player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
